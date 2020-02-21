@@ -18,6 +18,9 @@
     }
 </script>
 
-<style scoped>
+<style lang='scss'>
+
+    @import '~@fullcalendar/core/main.css';
+    @import '~@fullcalendar/daygrid/main.css';
 
 </style>
